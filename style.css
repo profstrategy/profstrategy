@@ -1,0 +1,73 @@
+body {
+    background-image: url('./image/bg-intro-desktop.png');
+    background-color: hsl(0, 100%, 74%);
+}
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.container {
+    height: 105vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+p {
+    font-size: 15px;
+}
+
+#but1 {
+    background-color: hsl(248, 32%, 49%);
+    color: white;
+    box-shadow: 3px 5px hsl(0, 33%, 56%);
+    border-radius: 10px;
+    padding: 15px 100px;
+    width: 100%;
+    border-style: none;
+}
+
+input {
+    width: 100%;
+    margin-bottom: 3px;
+    border-color: rgb(114, 112, 112);
+    padding: .3rem 0;
+    border-radius: .5rem;
+}
+
+select {
+    width: 100%;
+    border-color: rgb(114, 112, 112);
+    margin-bottom: 5px;
+    padding: .3rem 0;
+    border-radius: .5rem;
+}
+
+
+input::placeholder {
+    color: hsl(0, 100%, 74%);
+    font-size: 13px;
+}
+
+.card {
+    background-color: white;
+    box-shadow: 0 3px hsl(0, 33%, 56%);
+    margin: 1rem;
+    border-radius: 1rem;
+}
+
+.card-body {
+    padding: 1rem 2rem;
+}
+
+#but2 {
+    background-color: hsl(154, 59%, 51%);
+    width: 100%;
+    color: white;
+    padding: 10px;
+    box-shadow: 2px 3px hsl(154, 59%, 51%);
+    font-size: 12px;
+    border-style: none;
+}
