@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @profstrategy
 - 👀 I’m interested in web develpment
-- 🌱 I’m currently learning javascript, HTML, CSS and ReactJS
+- 🌱 I’m a learner of javascript, HTML, CSS and ReactJS
 - 💞️ I’m looking to collaborate on any project
 
 <!---
