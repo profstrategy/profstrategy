@@ -1,4 +1,4 @@
-<img width="1142" height="1027" alt="image" src="https://github.com/user-attachments/assets/f3203339-364f-4ce6-ad05-eca23fc50959" /># 👋 Hi, there I’m Ismail Abdulrahman Ojobalaro
+# 👋 Hi, there I’m Ismail Abdulrahman Ojobalaro
 
 🚀 **Frontend Engineer | Workflow Automation Specialist | PropTech and TravelTech Builder**
 
@@ -20,8 +20,21 @@ I sit at the intersection of:
 - 🌍 **Performance-driven Frontend Development**
 
 I build scalable, accessible, and search-optimized web experiences using:
-> `React.js` | `Next.js` | `TypeScript` | `Supabase` | `PostgreSQL` | `Prisma` |  
-> `Node.js` | `Express.js` | `MongoDB` | `Zapier` | `Airtable`
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="40" height="40"/>
+ <!-- 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/> 
+  -->
+  <img src="https://th.bing.com/th/id/R.dbc3fcbf7b55a9ef911af81178c12c07?rik=4kMtwTvI1ReYXw&pid=ImgRaw&r=0" width="40" height="40"/>
+  <img src="https://th.bing.com/th/id/OIP.k05V3CggrraVMydWXj7gKQHaHa?o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3" width="40" height="40"/>
+</p>
 
 ---
 
