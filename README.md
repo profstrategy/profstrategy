@@ -15,7 +15,7 @@ Currently, I’m **building [Almawaqeet](#)** — a **PropTech platform** that c
 ### 🧠 My Tech Niche
 
 I sit at the intersection of:
-- 🏗 **PropTech + TravelTech**
+- 🏗 **PropTech + HealthTech**
 - ⚙️ **Automation & No-Code Systems**
 - 🌍 **Performance-driven Frontend Development**
 
