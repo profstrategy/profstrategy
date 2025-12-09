@@ -1,6 +1,6 @@
 # 👋 Hi, there I’m Ismail Abdulrahman Ojobalaro
 
-🚀 **Frontend Engineer | Workflow Automation Specialist | PropTech and TravelTech Builder**
+🚀 **Frontend Engineer | Workflow Automation Specialist | HealthTech and Proptech Builder**
 
 ---
 
@@ -8,7 +8,7 @@
 
 I’m a **Frontend Engineer and Workflow Automation Specialist** passionate about transforming how startups grow — by combining **clean UI**, **WCAG 2.2 accessibility**, and **automated systems** that drive visibility and revenue.
 <!--
-Currently, I’m **building [Almawaqeet](#)** — a **PropTech platform** that connects travel and housing seekers with verified developers while prioritizing **speed, accessibility, and trust**.-->  
+Currently, I’m **building [hisnad](#)** — a **PropTech platform** that connects travel and housing seekers with verified developers while prioritizing **speed, accessibility, and trust**.-->  
 
 ---
 
@@ -56,13 +56,13 @@ So I build products that:
 |----------|---------|--------------|
 | **Hisnad Homes & Property** | ⚡ Increased visibility & sales by **100%** via SEO + optimization | Next.js, SEO, Accessibility |
 | **Almawaqeet Travels** | 📈 Boosted paid client conversions by **10%** while cutting load time | UI Revamp, SEO, Accessibility |
-| **Buildhubb** | 🤖 Built Zapier-Airtable automation framework, saving hours of manual work | Zapier, Airtable, Notion API |
+| **Buildhubb** | 🤖 Built Email CLAPIT, saving hours of manual work | n8n, Gmmail Api |
 
 ---
 <!--
 ### 🧰 What I’m Currently Building
 
-🌍 **Almawaqeet (PropTech Platform)**  
+🌍 **Hisnad (PropTech Platform)**  
 Building in public — documenting how frontend performance, SEO, and accessibility directly increase visibility and sales for PropTech startups in Africa and beyond.
 -->
 Follow my journey on [LinkedIn](https://linkedin.com/in/ismail-abdulrahman)  
@@ -75,15 +75,15 @@ Follow my journey on [LinkedIn](https://linkedin.com/in/ismail-abdulrahman)
 | Challenge | My Solution |
 |------------|--------------|
 | Low website visibility & traffic | SEO-driven content structure + optimized load times |
-| Workflow redundancy | Automated systems (Zapier, Airtable, Notion) |
-| Accessibility gaps | WCAG 2.2 compliance, inclusive design |
+| Workflow redundancy | Automated systems (n8n) |
+| Accessibility gaps | WCAG 1.1 compliance, inclusive design |
 | Poor conversion or engagement | UI revamps that tell better stories and build trust |
 
 ---
 
 ### 🌍 What I Care About
 
-- PropTech innovation across Africa & globally  
+- PropTech and HealthTech innovation across Africa & globally  
 - Remote-first product teams  
 - Automation for smarter operations  
 - Human-centered digital experiences  
@@ -95,7 +95,7 @@ Follow my journey on [LinkedIn](https://linkedin.com/in/ismail-abdulrahman)
 I’m open to:
 - **Frontend engineering** roles (remote preferred 🌐)
 - **Automation strategy** or workflow optimization projects  
-- **PropTech & TravelTech collaborations**  
+- **PropTech & HealthTeach collaborations**  
 
 📫 **Let’s connect:**  
 - [LinkedIn](https://linkedin.com/in/ismail-abdulrahman)  
