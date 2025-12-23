@@ -6,7 +6,7 @@
 
 ### 💡 About Me
 
-I’m a **Frontend Engineer and Workflow Automation Specialist** passionate about transforming how startups grow — by combining **clean UI**, **WCAG 2.2 accessibility**, and **automated systems** that drive visibility and revenue.
+I’m a **Frontend Engineer and Workflow Automation Specialist** passionate about transforming how startups grow — by combining **clean UI**, **WCAG 1.1 accessibility**, and **automated systems** that drive visibility and revenue.
 <!--
 Currently, I’m **building [hisnad](#)** — a **PropTech platform** that connects travel and housing seekers with verified developers while prioritizing **speed, accessibility, and trust**.-->  
 
